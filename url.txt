@@ -1,0 +1,1 @@
+offline-asr-sub-asr-child-ch/res/HCLG.fst http://ai-servitization-test.oss-cn-beijing.aliyuncs.com/AI_OpenSource%2Foffline-asr-sub-asr-child-ch%2Fres%2FHCLG.fst?OSSAccessKeyId=LTAI4FoGCvbhbuDm8eQm5peZ&Expires=1697560030&Signature=Dn6MuuFcGftp8LZYf7PS5HD%2FlLg%3D
